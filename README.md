@@ -6,10 +6,15 @@
 
 ---
 
-#pre-requisite
+## pre-requisite
 To run the code you need to have python version 3.11 and openai api key,serper api key and linkedin credentials
 update the .env file with the api keys and linkedin credentials
 
+signup for serper api key
+https://serper.dev/signup
+
+signup for openai api key
+https://platform.openai.com/signup
 
 ## Description 
 
